@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"small.json#start"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
