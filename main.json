@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/maps\/generic-assemblies.json#start_darksystem"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_darksystem}"
                 }],
          "type":"tilelayer",
          "visible":true,
